@@ -54,6 +54,6 @@ Output Files
 
 Reference
 If you use this code in research, please cite:
-Your Name. (2025). SlopeStability-ANN-MealPy: Metaheuristic-Optimized ANN for Slope Stability Prediction. GitHub Repository. https://github.com/yourusername/SlopeStability-ANN-MealPy
+Dibyesh Snehiman. (2025). SlopeStability-ANN-MealPy: Metaheuristic-Optimized ANN for Slope Stability Prediction. GitHub Repository. [https://github.com/yourusername/SlopeStability-ANN-MealPy](https://github.com/dibyeshOQGP/MealPY-Ann-Slope-Stability/)
 
 One script. 12 optimizers. Instant comparison.
