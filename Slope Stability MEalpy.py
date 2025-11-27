@@ -1,5 +1,5 @@
 #bash 
-pip install mealpy tensorflow pandas numpy matplotlib seaborn scikit-learn openpyxl
+!pip install mealpy tensorflow pandas numpy matplotlib seaborn scikit-learn openpyxl
 # Slope Stability Prediction - ANN + MealPy Optimizer
 # Clean, readable version with clear optimizer menu
 
